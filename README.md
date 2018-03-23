@@ -2,6 +2,8 @@
 ## Storage for ADC group share
 > please update this slide list after uploading your file 
 -------------------------------------
+### Week 1: deep learning By Zhouhanchen
+-------------------------------------
 ### Week 2: NLP之从入坑到放弃 By ZhichengLiu
 -------------------------------------
 ### Week 3:Resolve homophone using a hierarchical LSTM By ZhichengLiu
